@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787637640947",
+    "project_id": "perguntasbiblicas-e4395",
+    "storage_bucket": "perguntasbiblicas-e4395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787637640947:android:30c0d5dae3034cf66ca186",
+        "android_client_info": {
+          "package_name": "com.perguntas.jogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlJqzqbk1gb1Jwjjd4I25kto2U-QsKohA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
